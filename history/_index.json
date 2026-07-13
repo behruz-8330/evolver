@@ -29,9 +29,11 @@
       "ts": "20260713_073205_477016",
       "plugin": "userbot_mirror",
       "had_old": true
-    },
+    }
+  ],
+  "redo_stack": [
     {
-      "ts": "20260713_073205_481535",
+      "ts": "20260713_073205_494548",
       "plugin": "userbot_mirror",
       "had_old": true
     },
@@ -39,11 +41,9 @@
       "ts": "20260713_073205_485061",
       "plugin": "userbot_mirror",
       "had_old": true
-    }
-  ],
-  "redo_stack": [
+    },
     {
-      "ts": "20260713_073205_494548",
+      "ts": "20260713_073205_481535",
       "plugin": "userbot_mirror",
       "had_old": true
     }
